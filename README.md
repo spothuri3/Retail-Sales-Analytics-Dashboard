@@ -109,10 +109,3 @@ The database generates over 12,500 transactions spanning January 2024 to mid-202
     *Note: The SQLite database file (retail_sales.db) and the sample CSV data will automatically generate in your folder on the first run.*
 
 ---
-
-## Resume Bullet Points (ATS-Friendly)
-
-*   **Built a portfolio-grade, full-stack retail analytics web application** using Streamlit, Python, and SQLite, processing 12,000+ sales transactions to generate interactive dashboards for executive KPIs, sales trends, and product margin analyses.
-*   **Engineered an RFM (Recency, Frequency, Monetary) segmentation model** using Pandas and NumPy to classify customers into behavioral cohorts (e.g., Champions, At Risk, Lost), enabling targeted customer retention campaigns.
-*   **Implemented a time-series forecasting module** combining Ordinary Least Squares (OLS) Linear Regression with Multiplicative Seasonal Indices (Ratio-to-Trend) to project future monthly revenues with 95% confidence intervals, achieving model fit diagnostics.
-*   **Designed a modular, clean-code software architecture** with distinct database, data processing, statistical visualization, and user interface layers, optimizing database querying and data loading speeds using Streamlit caching.
