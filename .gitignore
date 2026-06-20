@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Database (auto-generated on startup)
+database/retail_sales.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Streamlit config/cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
